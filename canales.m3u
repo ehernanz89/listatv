@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png?1" group-title="Canales Nacionales", CANAL 13 | HD
+#EXTINF:-1 type="stream" channelId="-1" tvg-logo="https://static.13.cl/7/sites/all/themes/portal/resources/images/logo_13cl-2x.png?1" group-title="Canales Nacionales", CANAL 13 | HD
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/b16f41a2-4c3a-4475-bbd6-2aa7adc9a9bd:SCL/variant/c9b67689654a63823f9a27576352630a/bandwidth/1095600.m3u8
